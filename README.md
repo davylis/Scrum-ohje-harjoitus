@@ -34,3 +34,4 @@ Esim. "To Do", "In Progress", "Done".
 5. Sprint Review- ja Sprint Retrospective -kokoukset auttavat tunnistamaan ja ratkaisemaan ongelmia nopeasti.
 6. Testaus ja laadunvarmistus ovat osa jokaista sprinttiä, mikä varmistaa paremman lopputuloksen.
 7. Säännölliset toimitukset antavat asiakkaalle mahdollisuuden antaa palautetta ajoissa.
+8. Töitä voi tehdä ilman paineita.
