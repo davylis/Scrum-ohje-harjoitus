@@ -10,8 +10,17 @@ Sprintti on ennalta määrätty ajanjakso (yleensä 1–4 viikkoa), jonka aikana
 ***
 ## Työjonot
  - Tuotejono(Backlog)
+```
+ Lista priorisoiduista tehtävistä, jotka tukevat projektin tavoitteita.
+```
  - Sprinttijono(Sprint Backlog)
+```
+Tiimin valitsemat tehtävät, jotka on tarkoitus suorittaa sprintin aikana.
+```
  - Tehtävien tilat
+```
+Esim. "To Do", "In Progress", "Done".
+```
 
 ## Roolit
 
