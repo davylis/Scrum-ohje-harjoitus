@@ -37,7 +37,7 @@ Lisäksi määritellään, mitä konkreettisia toimia sprintin aikana tehdään,
 
 Daily Scrum kokous on sprintin aikana tapahtuva päivittäinen vartin pituinen tapaaminen, 
 jonka tarkoituksena on valvoa sprintin etenemistä aiemmin määriteltyä sprintin tavoitetta kohti.
-Lisäksi kokouksen aikana määritellään työsuunnitelma seuraavaa työpäivää varten. 
+Lisäksi kokouksen aikana määritellään työsuunnitelma seuraavaa työpäivää varten.
 
 
 ### 3. Sprint Review
@@ -48,8 +48,15 @@ Tapaamisen aikana myös käydään läpi, miten hyvin sprintille asetettuihin ta
 ja mitkä seikat vaikuttivat tavoitteiden saavuttamiseen.
 Näiden keskustelujen pohjalta voidaan määritellä muutoksia tuleviin sprintteihin.
 
+Päivittäiset dailyt vähentävät tarvetta muille kokouksille.
+
+### 4. Retrospektiivi
+
+Retrospektiivissä käydään läpi edellinen sprintti yksilöiden tasolla: mikä meni hyvin, missä voisi parantaa ja miten tiiminä voitaisiin parantaa seuraavaa sprinttiä silmällä pitäen.
+
 ## Scrumin hyödyt
 1. Asiakas näkee säännöllisesti edistystä ja voi hyödyntää tuotetta jo ennen lopullista valmistumista.
+
 2. Tiimin jäsenet jakavat edistymisensä ja esteensä, mikä antaa kaikille selvän kuvan työn tilanteesta.
 3. Jokaisen sprintin lopussa toimitetaan konkreettinen tuotos (esim. toimiva ohjelmisto)
 4. Suunnitelmia tarkennetaan jatkuvasti, mikä vähentää riskiä, että tuote vastaisi vanhentuneita vaatimuksia.
