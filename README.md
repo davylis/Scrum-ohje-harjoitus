@@ -23,6 +23,7 @@ Esim. "To Do", "In Progress", "Done".
 ```
 
 ## Roolit
+- Tuoteomistaja vastaa tuotteen työjonon hallinnasta. Tuoteomistajan vastuulla on huolehtia, että tiimi tuottaa mahdollisimman paljon lisäarvoa sidosryhmille.
 
 ## Kokoukset
 
