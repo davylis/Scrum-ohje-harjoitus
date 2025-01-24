@@ -14,6 +14,7 @@ Sprintti on ennalta määrätty ajanjakso (yleensä 1–4 viikkoa), jonka aikana
  - Tehtävien tilat
 
 ## Roolit
+- Tuoteomistaja vastaa tuotteen työjonon hallinnasta. Tuoteomistajan vastuulla on huolehtia, että tiimi tuottaa mahdollisimman paljon lisäarvoa sidosryhmille.
 
 ## Kokoukset
 
