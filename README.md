@@ -26,12 +26,17 @@ Esim. "To Do", "In Progress", "Done".
 
 ## Kokoukset
 
-### Sprintin Sunnittelu
-
+### 1. Sprintin Sunnittelu
+```
 Ennen jokaisen sprintin varsinaista aloitusta, tiimi käy yhdessä tuotteen omistajan kanssa kokouksen, jossa 
 suunnitellaan tulevaa sprinttiä. Tämän kokouksen tarkoituksena on määrittää mihin tuotejonossa oleviin tehtäviin tiimi tulevan sprintin aikana keskittyy.
 Lisäksi määritellään, mitä konkreettisia toimia sprintin aikana tehdään, jotta määrätyt tehtävät suoritetaan määräaikaan mennessä.
+```
+### 2. Daily Scrum
+```
+Daily Scrum kokous on sprintin aikana tapahtuva päivittäinen vartin pituinen tapaaminen, jonka tarkoituksena on tarkastaa sprintin eteneminen.
 
+```
 ## Scrumin hyödyt
 1. Asiakas näkee säännöllisesti edistystä ja voi hyödyntää tuotetta jo ennen lopullista valmistumista.
 2. Tiimin jäsenet jakavat edistymisensä ja esteensä, mikä antaa kaikille selvän kuvan työn tilanteesta.
