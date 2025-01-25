@@ -26,6 +26,12 @@ Sprinttiin osallistunut tiimi katsoo menneitä viikkoja ja etsii mahdollisia keh
 ***
 ## Sprintit
 Sprintti on ennalta määrätty ajanjakso (yleensä 1–4 viikkoa), jonka aikana tiimi keskittyy tietyn osakokonaisuuden toteuttamiseen.
+Jokaiselle sprintille määritellään yhdessä tuotteen omistajan kanssa tietty tavoite, johon kaikki sprintin aikana tehty työ keskittyy.
+
+
+Sprintin etenemistä tarkastellaan päivittäin tapahtuvilla lyhyillä tapaamisilla ja
+sprintin kestoa ei pidennetä, vaikka asetettu tavoite jäisikin saavuttamatta, vaan tekemättä jäänyt työ siirretään
+seuraavaan sprinttiin. Sprintin päätyttyä käydään läpi sprintin tuotokset ja aloitetaan heti uusi sprintti, johon määritellään taas uudet tavoitteet.
 ***
 ## Työjonot
  - Tuotejono(Backlog)
