@@ -1,8 +1,7 @@
 # Scrum-ohje-harjoitus
-teststs
-## Scrum-syklin yleiskuvaus
 ***
-Scrum-syklissä työskentely perustuu iteratiiviseen ja inkrementaaliseen prosessiin. Normi sykli koostuu Sprinteistä, joiden pituus on projektista riippuen muutama viikko (1-4). Tämän sprintin aikana on tarkoituksena saada jokin tuotteen ominaisuus toteutettua ajallaan.
+## Scrum-syklin yleiskuvaus
+Scrum-syklissä työskentely perustuu iteratiiviseen ja inkrementaaliseen prosessiin. Normisykli koostuu Sprinteistä, joiden pituus on projektista riippuen muutama viikko (1-4). Tämän sprintin aikana on tarkoituksena saada jokin tuotteen ominaisuus toteutettua ajallaan.
 
 Scrum-sykli koostuu näistä askeleista:
 
@@ -26,7 +25,6 @@ Sprinttiin osallistunut tiimi katsoo menneitä viikkoja ja etsii mahdollisia keh
 
 ***
 ## Sprintit
-***
 Sprintti on ennalta määrätty ajanjakso (yleensä 1–4 viikkoa), jonka aikana tiimi keskittyy tietyn osakokonaisuuden toteuttamiseen.
 ***
 ## Työjonot
@@ -42,15 +40,16 @@ Tiimin valitsemat tehtävät, jotka on tarkoitus suorittaa sprintin aikana.
 ```
 Esim. "To Do", "In Progress", "Done".
 ```
-
+***
 ## Roolit
 ### Scurmmissa on seuraavat 3 + 1 roolia:
 
 1. Tuoteomistaja vastaa tuotteen työjonon hallinnasta. Tuoteomistajan vastuulla on huolehtia, että tiimi tuottaa mahdollisimman paljon lisäarvoa sidosryhmille.
+
 2. Scrum Master auttaa tuoteomistajaa ja kehitystiimiä Scrum prosessin optimoinnissa, sekä poistaa esteet.
 3. Kehitystiimi on joukko aktiivisia ja yhteistyökykyisiä kehittäjiä, jotka rakentavat toimivan ohjelmiston ja rakentamista tukevan kehitysympäristön.
 4. Sidosryhmät ovat ulkoisia toimijoita, kuten loppukäyttäjät, hankehallinto tai muut Scrum tiimit.
-
+***
 ## Kokoukset
 
 ### 1. Sprintin Sunnittelu
@@ -79,7 +78,7 @@ Päivittäiset dailyt vähentävät tarvetta muille kokouksille.
 ### 4. Retrospektiivi
 
 Retrospektiivissä käydään läpi edellinen sprintti yksilöiden tasolla: mikä meni hyvin, missä voisi parantaa ja miten tiiminä voitaisiin parantaa seuraavaa sprinttiä silmällä pitäen.
-
+***
 ## Scrumin hyödyt
 1. Asiakas näkee säännöllisesti edistystä ja voi hyödyntää tuotetta jo ennen lopullista valmistumista.
 
