@@ -48,13 +48,14 @@ Esim. "To Do", "In Progress", "Done".
 ```
 ***
 ## Roolit
-### Scurmmissa on seuraavat 3 + 1 roolia:
+### Scurmmissa on seuraavat 3 + 1 roolia
 
-1. Tuoteomistaja vastaa tuotteen työjonon hallinnasta. Tuoteomistajan vastuulla on huolehtia, että tiimi tuottaa mahdollisimman paljon lisäarvoa sidosryhmille.
+Scrumin keskiössä on tiimi. Scrum-tiimin tulisi olla riittävän pieni, jotta se voi pysyä nopeana ja itseohjautuvana. Tyypillinen nyrkkisääntö on enintään 10 jäsentä. Tiimiin kuuluvat seuraavat roolit:
 
-2. Scrum Master auttaa tuoteomistajaa ja kehitystiimiä Scrum prosessin optimoinnissa, sekä poistaa esteet.
-3. Kehitystiimi on joukko aktiivisia ja yhteistyökykyisiä kehittäjiä, jotka rakentavat toimivan ohjelmiston ja rakentamista tukevan kehitysympäristön.
-4. Sidosryhmät ovat ulkoisia toimijoita, kuten loppukäyttäjät, hankehallinto tai muut Scrum tiimit.
+1. **Tuoteomistaja (Product Owner):** Vastaa tuotteen työjonon hallinnasta. Tuoteomistajan vastuulla on huolehtia, että tiimi tuottaa mahdollisimman paljon lisäarvoa sidosryhmille.
+2. **Scrum Master:** Auttaa tuoteomistajaa ja kehitystiimiä Scrum prosessin optimoinnissa, sekä poistaa esteet.
+3. **Kehitystiimi:** Joukko aktiivisia ja yhteistyökykyisiä kehittäjiä, jotka rakentavat toimivan ohjelmiston ja rakentamista tukevan kehitysympäristön.
+4. **Sidosryhmät:** Ulkoisia toimijoita, kuten loppukäyttäjät, hankehallinto tai muut Scrum tiimit.
 ***
 ## Kokoukset
 
