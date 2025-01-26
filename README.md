@@ -1,27 +1,29 @@
 # Scrum-ohje-harjoitus
 ***
 ## Scrum-syklin yleiskuvaus
-Scrum-syklissä työskentely perustuu iteratiiviseen ja inkrementaaliseen prosessiin. Normisykli koostuu Sprinteistä, joiden pituus on projektista riippuen muutama viikko (1-4). Tämän sprintin aikana on tarkoituksena saada jokin tuotteen ominaisuus toteutettua ajallaan.
+*Scrum-sykli perustuu iteratiiviseen ja inkrementaaliseen työskentelytapaan. Sprintit, jotka kestävät projektista riippuen 1–4 viikkoa, ovat syklin keskeisiä osia. Sprintin aikana pyritään toteuttamaan tuoteominaisuus valmiiksi siten, että se täyttää määritellyt laatukriteerit ja on tarvittaessa käyttöön otettavissa.*
 
-Scrum-sykli koostuu näistä askeleista:
+Tässä on lyhyt yleiskuvaus kaikista syklin osista lyhyesti.
+
+**Scrum-sykli muodostuu näistä askeleista:**
 
 ### Sprintin suunnittelu
-Jossa suunnitellaan tulevan Sprintin tavoite, kuten myös ne henkilöt jotka tulisivat osallistumaan sprintin toteuttamisessa.
-Suunnitteluvaiheessa tuotteen tai ohjelmiston omistajalla/asiakkaalla on paljon sananvaltaa siihen mitä seuraavan sprintin aikana kehitetään.
+Jossa suunnitellaan tulevan Sprintin tavoite, kuten myös ne henkilöt jotka tulisivat osallistumaan Sprintin toteuttamisessa.
+Suunnitteluvaiheessa tuotteen tai ohjelmiston omistajalla (*Product Owner*) on paljon sananvaltaa siihen mitä seuraavan Sprintin aikana kehitetään.
 
 ### Sprintin toteutus
-Vaiheen tarkoituksena on toteuttaa suunnitteluvaiheessa aiheeksi päätetyt ominaisuudet tai toiminnallisuudet. Työ jaetaan useampaan pieneen tehtävään, joita on helppo suorittaa yksitellen ja hyvissä ajoin.
+Vaiheen tarkoituksena on toteuttaa suunnitteluvaiheessa aiheeksi päätetyt ominaisuudet tai toiminnallisuudet. Työ jaetaan useampaan pieneen tehtävään, joita on helppo suorittaa yksitellen ja hyvissä ajoin. Tavoitteena on varmistaa, että kaikki tehtävät täyttävät suunitelmassa määritellyt laatukriteerit.
 
-### Päivittäiset tapaamiset
+### Päivittäiset tapaamiset (*Daily Scrum*)
 Keskustellaan lyhyesti joka päivä Sprintin sujuvuudesta ja otetaan ylös kaikki mahdolliset esteet työteolle. Myös katsotaan mitä ollaan saatu aikaiseksi aikaisempana päivänä ja mitä voitaisiin alkaa seuraavaksi työstämään. 
 Kokousten pituus: n. 15 min.
 
-### Sprintin arviointi
+### Sprintin arviointi (*Sprint Review*)
 Katsotaan miten mennyt sprintti on sujunut ja ollaanko suunnitelmassa vaaditut toiminnot tai ominaisuudet saatu toteutettua.
-Valmiit työt esitellään lopulle tiimistä, ja otetaan vastaan mahdolliset palautteet.
+Valmiit työt esitellään lopulle tiimistä, ja otetaan vastaan mahdolliset palautteet. Tämän osion tarkoituksena on varmistaa, että työn tulokset vastaavat niille asetettuja odotuksia.
 
-### Sprintin loppu (retrospektiivi)
-Sprinttiin osallistunut tiimi katsoo menneitä viikkoja ja etsii mahdollisia kehityskohtia. Päätetään konkreettisista toimenpiteistä prosessien tai työskentelytapojen kehittämiseksi
+### Sprintin loppu (*retrospektiivi*)
+Sprinttiin osallistunut tiimi katsoo menneitä viikkoja ja etsii mahdollisia kehityskohtia. Päätetään konkreettisista toimenpiteistä prosessien tai työskentelytapojen kehittämiseksi. Jokaisen Sprintin loppu antaa hyvän kuvan siitä, mitä lähdetään parantamaan jatkossa.
 
 ***
 ## Sprintit
