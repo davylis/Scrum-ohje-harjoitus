@@ -1,9 +1,9 @@
 # Scrum-ohje-harjoitus
 ***
 ## Scrum-syklin yleiskuvaus
-Scrum-syklissä työskentely perustuu iteratiiviseen ja inkrementaaliseen prosessiin. Normisykli koostuu Sprinteistä, joiden pituus on projektista riippuen muutama viikko (1-4). Tämän sprintin aikana on tarkoituksena saada jokin tuotteen ominaisuus toteutettua ajallaan.
+*Scrum-sykli perustuu iteratiiviseen ja inkrementaaliseen työskentelytapaan. Sprintit, jotka kestävät projektista riippuen 1–4 viikkoa, ovat syklin keskeisiä osia. Sprintin aikana pyritään toteuttamaan tuoteominaisuus valmiiksi siten, että se täyttää määritellyt laatukriteerit ja on tarvittaessa käyttöön otettavissa.*
 
-Scrum-sykli koostuu näistä askeleista:
+**Scrum-sykli muodostuu näistä askeleista:**
 
 ### Sprintin suunnittelu
 Jossa suunnitellaan tulevan Sprintin tavoite, kuten myös ne henkilöt jotka tulisivat osallistumaan sprintin toteuttamisessa.
