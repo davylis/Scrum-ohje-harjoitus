@@ -3,8 +3,6 @@
 ## Scrum-syklin yleiskuvaus
 *Scrum-sykli perustuu iteratiiviseen ja inkrementaaliseen työskentelytapaan. Sprintit, jotka kestävät projektista riippuen 1–4 viikkoa, ovat syklin keskeisiä osia. Sprintin aikana pyritään toteuttamaan tuoteominaisuus valmiiksi siten, että se täyttää määritellyt laatukriteerit ja on tarvittaessa käyttöön otettavissa.*
 
-Tässä on lyhyt yleiskuvaus kaikista syklin osista lyhyesti.
-
 **Scrum-sykli muodostuu näistä askeleista:**
 
 ### Sprintin suunnittelu
